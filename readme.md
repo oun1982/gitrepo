@@ -1,0 +1,1 @@
+Hello GIT From gitmac directory
