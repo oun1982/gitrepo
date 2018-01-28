@@ -1,0 +1,7 @@
+This is my file exception handling!!!
+Hello
+My name is "Pongsakon"
+i am technicial
+i like asterisk
+i like linux
+i like Pyhton
