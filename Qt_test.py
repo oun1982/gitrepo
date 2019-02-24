@@ -1,4 +1,4 @@
-import sys
+import sys, re
 from PyQt5.QtWidgets import (QWidget, QToolTip,QPushButton, QApplication)
 from PyQt5.QtGui import QFont
 
